@@ -16,7 +16,7 @@
 // const messages = orders.map((order, index) =>
 //   composeMessage.call(order, index + 1)
 // );
-=======>>>>>>
+// =======>>>>>>
 
 const orders = [
   { email: 'solomon@topmail.ua', dish: 'Burger' },
